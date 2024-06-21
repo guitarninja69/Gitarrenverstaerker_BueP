@@ -49,6 +49,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Test_Point_2.54mm\Test_Point_2.54mm.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNBXSNTH
+
+[Document2]
+DocumentPath=Diodes\Si_Diode_ESD\Si_Diode_Footprint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NWNYVIQY
+
+[Document3]
 DocumentPath=Guitar_Amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLHRKVCG
 
-[Document2]
+[Document4]
 DocumentPath=M4_Mountinghole\M3_Mountinghole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHNBBPSD
 
-[Document3]
+[Document5]
 DocumentPath=Connectors\Power_Supply_In\Power_Supply_Input.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZYGPDKY
 
-[Document4]
+[Document6]
 DocumentPath=Rs_Cs_Ls\R_10k_0805\R_10k_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTYNMTDJ
 
-[Document5]
+[Document7]
 DocumentPath=Rs_Cs_Ls\R_120k_0805\R_120k_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYKPDUXD
 
-[Document6]
+[Document8]
 DocumentPath=Diodes\B340LA_13_F\B340LA-13-F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRTNAGZO
 
-[Document7]
+[Document9]
 DocumentPath=Connectors\4_ohm_speaker\4_ohm_speaker.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRWLSPWF
 
-[Document8]
+[Document10]
 DocumentPath=Connectors\Audio_Input\Audio_Inputjack.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGNFMKDX
 
-[Document9]
+[Document11]
 DocumentPath=Rs_Cs_Ls\C_2_2uF_0805\C_2_2uF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZKKDVQD
 
-[Document10]
+[Document12]
 DocumentPath=Rs_Cs_Ls\C_1mF_Elko\C_1mF_Elko_50V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXAVBZWW
 
-[Document11]
+[Document13]
 DocumentPath=Rs_Cs_Ls\R_Template_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNXFIPHB
 
-[Document12]
+[Document14]
 DocumentPath=Rs_Cs_Ls\C_Template_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUCPZCVD
 
-[Document13]
+[Document15]
 DocumentPath=Rs_Cs_Ls\C_1mF_Elko\C_1mF_Elko_50V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAYZXPTT
 
-[Document14]
+[Document16]
 DocumentPath=Rs_Cs_Ls\C_8_2nF_0805\C_8_2nF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFKKZLQU
 
-[Document15]
+[Document17]
 DocumentPath=Rs_Cs_Ls\C_5_6nF_0805\C_5_6nF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VZXWLIQA
 
-[Document16]
+[Document18]
 DocumentPath=ICs\MP7740DN-LF-Z\Altium\MP7740DN_SOIC8Pin_w_GND_Pad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZMRSBZC
 
-[Document17]
+[Document19]
 DocumentPath=Rs_Cs_Ls\10k_Poti\10K_Poti.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAGGSHCX
 
-[Document18]
+[Document20]
 DocumentPath=Rs_Cs_Ls\10k_Poti\10K_Poti.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHTHRGUS
 
-[Document19]
+[Document21]
 DocumentPath=Rs_Cs_Ls\100k_Poti\100k_Poti.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCNWUGHH
 
-[Document20]
+[Document22]
 DocumentPath=Diodes\5mm_LED\5mm_LED_Red.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSQJJQZM
 
-[Document21]
+[Document23]
 DocumentPath=Rs_Cs_Ls\100k_Poti\100k_Poti.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXDIRTQU
 
-[Document22]
+[Document24]
 DocumentPath=Connectors\4_ohm_speaker\4_ohm_speaker.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACKZOYYP
 
-[Document23]
+[Document25]
 DocumentPath=ICs\MP7740DN-LF-Z\Altium\MP7740DN-LF-Z.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACCVXUGI
 
-[Document24]
+[Document26]
 DocumentPath=Connectors\Switch\Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +490,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCXPUXGK
 
-[Document25]
+[Document27]
+DocumentPath=Diodes\Si_Diode_ESD\Si_Diode.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EAHKJMTO
+
+[Document28]
 DocumentPath=Diodes\5mm_LED\5mm_LED_Red.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEQQFFDX
 
-[Document26]
+[Document29]
 DocumentPath=Rs_Cs_Ls\C_10uF_0805\C_10uF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCRSRUNY
 
-[Document27]
+[Document30]
 DocumentPath=Rs_Cs_Ls\R_1k2_0805\R_1k2_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRDVSTAJ
 
-[Document28]
+[Document31]
 DocumentPath=Rs_Cs_Ls\C_22pF_0805\C_22pF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZYALCDK
 
-[Document29]
+[Document32]
 DocumentPath=Connectors\Audio_Input\Audio_Inputjack.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLRQCGPF
 
-[Document30]
+[Document33]
 DocumentPath=Rs_Cs_Ls\R_100k_0805\R_100k_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDCSASMM
 
-[Document31]
+[Document34]
 DocumentPath=M4_Mountinghole\M3_Mountinghole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFBMHPPC
 
-[Document32]
+[Document35]
 DocumentPath=Connectors\Switch\Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXYKYYYQ
 
-[Document33]
+[Document36]
 DocumentPath=Rs_Cs_Ls\C_82nF_0805\C_82nF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRRNBIBI
 
-[Document34]
+[Document37]
 DocumentPath=Rs_Cs_Ls\C_100nF_0805\C_100nF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBJZSBME
 
-[Document35]
+[Document38]
 DocumentPath=Connectors\Power_Supply_In\Power_Supply_Input.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNTDCMVS
 
-[Document36]
+[Document39]
 DocumentPath=ICs\LM358DT\Altium\LM358DT_SOIC8Pin_Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASLTAFAZ
 
-[Document37]
+[Document40]
 DocumentPath=Rs_Cs_Ls\R_1k8_0805\R_1k8_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAWLRMPD
 
-[Document38]
+[Document41]
 DocumentPath=ICs\LM358DT\Altium\LM358DT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZXSBVLI
 
-[Document39]
+[Document42]
 DocumentPath=Rs_Cs_Ls\L_10uH_4A\L_10uH_4A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGZDITAR
 
-[Document40]
+[Document43]
 DocumentPath=Diodes\B340LA_13_F\B340LA-13-F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +779,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJJREHQC
 
-[Document41]
+[Document44]
+DocumentPath=Test_Point_2.54mm\Test_Point_2.54mm.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NSOMXTBE
+
+[Document45]
 DocumentPath=Rs_Cs_Ls\C_470nF_0805\C_470nF_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGAERKEI
 
-[Document42]
+[Document46]
 DocumentPath=Rs_Cs_Ls\L_10uH_4A\L_10uH_4A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYROHDPE
 
-[Document43]
+[Document47]
 DocumentPath=Guitar_Amp_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,6 +847,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFOGQXOC
 
+[Document48]
+DocumentPath=Guitar_Amp_Project.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -788,6 +873,44 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=0
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1899,15 +2022,15 @@ ComponentSymbolReference21=RC0805FR-07100RP
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=R_120k_0805.SchLib
+ComponentLibraryIdentifier22=R_1k2_0805.SchLib
 ComponentDesignItemID22=RC0805FR-07100RP
 ComponentSymbolReference22=RC0805FR-07100RP
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=R_1k2_0805.SchLib
-ComponentDesignItemID23=RC0805FR-07100RP
-ComponentSymbolReference23=RC0805FR-07100RP
+ComponentLibraryIdentifier23=Si_Diode.SchLib
+ComponentDesignItemID23=Si-Diode
+ComponentSymbolReference23=Si-Diode
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
@@ -1989,14 +2112,17 @@ ModelType10=PCBLIB
 ModelName10=R Template for 0805
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SOIC127P600X170-9N
+ModelName11=Si-Diode Footprint
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SOIC127P600X175-8N
+ModelName12=SOIC127P600X170-9N
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=Switch
+ModelName13=SOIC127P600X175-8N
 ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=Switch
+ModelUpdate14=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
